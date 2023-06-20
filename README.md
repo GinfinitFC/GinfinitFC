@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center"><b>Hi , I'm Giancarlo Franco </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Robotics+and+Digital+Systems+Student,;Love+to+learn+new+stuffs"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Robotics+and+Digital+Systems,;Love+to+learn+new+stuff,;Gamer"></a>
 </p>
 
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br>
 
 - Robotics and Digital Systems Engineer
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+<!-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid) -->
 
 <br><br>
 
@@ -55,16 +55,14 @@ Here are some ideas to get you started:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    ![MATLAB](https://img.shields.io/badge/MATLAB-orange)
+    ![Unreal Engine](https://img.shields.io/badge/Unreal-Engine-4?logo=Unreal%20Engine&color=blue)
+    ![ROS](https://img.shields.io/badge/ROS-blue)
+    ![FreeRTOS](https://img.shields.io/badge/Free-RTOS-green?logo=FreeRTOS)
 
 <br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 
 </p>
